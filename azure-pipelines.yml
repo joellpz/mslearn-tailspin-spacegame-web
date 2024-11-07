@@ -3,7 +3,7 @@ trigger:
 
 pool:
   # vmImage: ubuntu-latest
-  name: wls-local
+  name: wsl-local
 
 variables:
   buildConfiguration: 'Release'
